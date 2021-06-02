@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import background from "../../assets/background-cropped.png";
+import background from "../../assets/background-cropped.webp";
 import {motion} from "framer-motion";
 import Songs from "../../songs";
 import {FaMicrochip} from "react-icons/fa";

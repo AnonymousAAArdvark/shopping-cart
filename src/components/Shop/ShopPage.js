@@ -1,10 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import background from "../../assets/background-cropped.png";
+import background from "../../assets/background-cropped.webp";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import Songs from "../../songs";
-import icon from "../../assets/disk.png";
+import icon from "../../assets/disk.webp";
 import { FaMicrochip } from "react-icons/fa";
 
 const ShopPage = () => {

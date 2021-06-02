@@ -1,19 +1,19 @@
-import BGA from "./assets/songs/Better_Graphic_Animation.png";
-import Chrono from "./assets/songs/Chronostasis.png";
-import Cthugha from "./assets/songs/Cthugha.png";
-import Rubbish from "./assets/songs/Rubbish_Sorting.png";
-import Snow from "./assets/songs/Snow_Desert.png";
-import Spas from "./assets/songs/Spasmodic.png";
-import Star from "./assets/songs/Starduster.png";
-import Volcanic from "./assets/songs/Volcanic.png";
-import Wave from "./assets/songs/WaveTapper.png";
-import Final from "./assets/songs/Final_Step.png";
-import Get_Back from "./assets/songs/Get_Back.png";
-import Modulus from "./assets/songs/Modulus.png";
-import Cloud from "./assets/songs/云女孩 .png";
-import Sick from "./assets/songs/开心病 .png";
-import Miku from "./assets/songs/雪降り、メリクリ.png"
-import Eltaw from "./assets/songs/Eltaw.png";
+import BGA from "./assets/songs/Better_Graphic_Animation.webp";
+import Chrono from "./assets/songs/Chronostasis.webp";
+import Cthugha from "./assets/songs/Cthugha.webp";
+import Rubbish from "./assets/songs/Rubbish_Sorting.webp";
+import Snow from "./assets/songs/Snow_Desert.webp";
+import Spas from "./assets/songs/Spasmodic.webp";
+import Star from "./assets/songs/Starduster.webp";
+import Volcanic from "./assets/songs/Volcanic.webp";
+import Wave from "./assets/songs/WaveTapper.webp";
+import Final from "./assets/songs/Final_Step.webp";
+import Get_Back from "./assets/songs/Get_Back.webp";
+import Modulus from "./assets/songs/Modulus.webp";
+import Cloud from "./assets/songs/云女孩 .webp";
+import Sick from "./assets/songs/开心病 .webp";
+import Miku from "./assets/songs/雪降り、メリクリ.webp"
+import Eltaw from "./assets/songs/Eltaw.webp";
 
 const songs = [
   {

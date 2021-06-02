@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo.webp";
 import { Link } from "react-router-dom";
-import background from "../../assets/background-cropped.png";
+import background from "../../assets/background-cropped.webp";
 import { motion } from "framer-motion";
 
 const HomePage = () => {
